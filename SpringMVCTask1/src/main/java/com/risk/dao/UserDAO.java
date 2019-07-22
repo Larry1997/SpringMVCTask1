@@ -16,6 +16,7 @@ private static List<User> list = null;
 		list.add(new User("sudarshan", 30, "1@gmail.com", "India"));
 		list.add(new User("kumar", 40, "2@gmail.com", "India"));
 		list.add(new User("Thakur", 30, "3@gmail.com", "India"));
+		list.add(new User("Larsen", 22, "larsen@gmail.com", "India"));
 	}
 	public List<User> getUserList() {
 		return list;
